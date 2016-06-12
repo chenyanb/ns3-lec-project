@@ -1,5 +1,4 @@
-# ns3-lec-project
-My homework of ns3 practice
+
 程序每隔1s打印一次姓名和学号并且在第4秒停止，运行结果1如下图：
 ![程序每隔1s打印一次姓名和学号并且在第4秒停止](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f4spu46felj20kc0dw771.jpg)
 
