@@ -1,0 +1,11 @@
+# ns3-lec-project
+My homework of ns3 practice
+程序每隔1s打印一次姓名和学号并且在第4秒停止，运行结果1如下图：
+![程序每隔1s打印一次姓名和学号并且在第4秒停止](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f4spu46felj20kc0dw771.jpg)
+
+程序统计4s内输出的行数并且筛选出第2s的输出，运行结果如下图所示：
+
+![统计程序打印的行数并筛选出第二秒的输出](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f4sqe76p4nj20kf0c977s.jpg)
+
+程序每秒打印两行，4秒共打印8行。
+
