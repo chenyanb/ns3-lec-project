@@ -4,7 +4,7 @@
 
 Wireshark截图
 
-![wireshark](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5fonyl136j20xp0fr107.jpg)
+![wireshark](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5gjdy1r9xj20y60igjxb.jpg)
 
 PyViz截图，网络由P2P以及csma组成
 
