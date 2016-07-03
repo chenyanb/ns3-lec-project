@@ -8,7 +8,7 @@ Wireshark截图
 
 PyViz截图，网络由P2P以及csma组成
 
-![wireshark](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5ge0n05dwj211h0gegps.jpg)
+![PyViz](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5gh9vydg5j21170g1dlv.jpg)
 
 PyViz安装步骤
 
