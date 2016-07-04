@@ -8,7 +8,7 @@ Wireshark截图
 
 PyViz截图，网络由wifi以及csma组成
 
-![PyViz](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f5hm5f7eeqj210u0dw0xt.jpg)
+![PyViz](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5i4wx0zwij20jn0ev3zl.jpg)
 
 PyViz安装步骤
 
