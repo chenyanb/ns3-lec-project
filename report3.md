@@ -6,9 +6,9 @@ Wireshark截图
 
 ![wireshark](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5gjdy1r9xj20y60igjxb.jpg)
 
-PyViz截图，网络由P2P以及csma组成
+PyViz截图，网络由wifi以及csma组成
 
-![PyViz](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5gh9vydg5j21170g1dlv.jpg)
+![PyViz](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f5hm5f7eeqj210u0dw0xt.jpg)
 
 PyViz安装步骤
 
