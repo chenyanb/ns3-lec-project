@@ -4,9 +4,11 @@ ns3-lec-project2-2.cc的拓扑结构图
                                                
 ns3-lec-project2-2.cc的拓扑截图：
 
+
 ![拓扑截图1](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f5hm5f7eeqj210u0dw0xt.jpg)
 
 ns3-lec-project2-2.cc的客户服务器通信截图
+
 
 ![通信截图1](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5hm8mdzawj20k80dfaer.jpg)
 
@@ -16,8 +18,3 @@ ns3-lec-project2-2.cc的客户服务器通信截图
 
 
 
-
-
-
-
-![第二次作业](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5316j4q4zj20li0bu433.jpg)
