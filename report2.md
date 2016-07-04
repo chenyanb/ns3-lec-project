@@ -14,13 +14,13 @@ ns3-lec-project2-2.cc的拓扑截图：
 ns3-lec-project2-2.cc的客户服务器通信截图
 
 
-![](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5hm8mdzawj20k80dfaer.jpg)
+![](http://ww4.sinaimg.cn/mw690/bd615ff8gw1f5i58m68sxj20kc0epjsh.jpg)
 
 
 ns3-lec-project2-3.cc的拓扑结构图
 
 
-![](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f5hn968da3j20o204haau.jpg)
+![](http://ww1.sinaimg.cn/mw690/bd615ff8gw1f5i52khdxuj20kd0fmjsj.jpg)
       
       
 ns3-lec-project2-3.cc的拓扑截图：
