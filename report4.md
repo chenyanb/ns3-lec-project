@@ -12,5 +12,9 @@ logging
 
 ![](http://ww3.sinaimg.cn/mw690/bd615ff8gw1f5i3k15pbfj20kc0dgq7q.jpg)
 
+gnuplot绘图
+
+![](http://ww2.sinaimg.cn/mw690/bd615ff8gw1f5li4z1x0rj20l30iydhb.jpg)
+
 
 
