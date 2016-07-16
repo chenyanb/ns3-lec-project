@@ -41,11 +41,19 @@ main (int argc, char *argv[])
 {
 	CommandLine cmd;
 	std::string name,num;
+<<<<<<< HEAD
        cmd.AddValue ("name", "my name", name);//第一个变量为“变量的名”（在终端中读入数据时的使用的变量名），第二个为“变量的description”,第三个为变量name1存储在name中
 	cmd.AddValue ("num", "my num", num);
 	cmd.Parse(argc,argv);
 	printHello(name,num);
         Simulator::Stop(Seconds(4));
+=======
+	cmd.AddValue ("name", "my name", name);
+	cmd.AddValue ("num", "my num", num);
+	cmd.Parse(argc,argv);
+	printHello(name,num);
+     Simulator::Stop(Seconds(4));
+>>>>>>> 349eb561b110c667b330d5dd0b009c035d430105
 	Simulator::Run ();
 	Simulator::Destroy ();
 }

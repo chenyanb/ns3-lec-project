@@ -26,8 +26,11 @@ NS_LOG_COMPONENT_DEFINE ("FirstScriptExample");
 int
 main (int argc, char *argv[])
 {
+<<<<<<< HEAD
   CommandLine cmd;
   cmd.Parse(argc,argv);
+=======
+>>>>>>> 349eb561b110c667b330d5dd0b009c035d430105
   Time::SetResolution (Time::NS);
   LogComponentEnable ("UdpEchoClientApplication", LOG_LEVEL_INFO);
   LogComponentEnable ("UdpEchoServerApplication", LOG_LEVEL_INFO);
